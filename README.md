@@ -12,7 +12,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 - [Project Proposal](https://github.com/Aishah2019/Hotel-Reviews-NLP-Project/tree/main/Proposal)
 - [Project MVP](https://github.com/Aishah2019/Hotel-Reviews-NLP-Project/tree/main/MVP)
 - [Jupyter Notebooks](https://github.com/Aishah2019/Hotel-Reviews-NLP-Project/tree/main/Jupyter%20Notebooks)
-- [Final Report]()
+- [Final Report](https://github.com/Aishah2019/Hotel-Reviews-NLP-Project/blob/main/Report/README.md)
 - [Slides Presentation](https://github.com/Aishah2019/Hotel-Reviews-NLP-Project/tree/main/Presentation)
 
 ### Contact Me
